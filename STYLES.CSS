@@ -3,7 +3,7 @@ body {
     background:burlywood;
 }
 header {
-    bottom: solid 2px rgb(107, 73, 28);
+    border-bottom: solid 2px rgb(107, 73, 28);
     padding: 20px;
     font-size: 32px;
     color: rgb(187, 90, 25);
